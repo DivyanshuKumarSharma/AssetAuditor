@@ -1,0 +1,6 @@
+* text=auto
+
+# Unreal assets are binary: never diff or line-ending-convert them
+*.uasset binary
+*.umap   binary
+*.png    binary

@@ -1,0 +1,23 @@
+# Unreal build output and caches (regenerated on build / editor launch)
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+# IDE / generated project files
+.vs/
+.vscode/
+.idea/
+*.sln
+*.suo
+*.VC.db
+*.VC.opendb
+*.sdf
+*.opensdf
+*.code-workspace
+
+# OS
+Thumbs.db
+.DS_Store
