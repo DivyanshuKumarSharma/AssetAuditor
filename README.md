@@ -110,3 +110,9 @@ Content/AuditTests/               Generated test content
 - Time-sliced scanning for very large projects
 - Incremental re-audit driven by Asset Registry events
 - Rules authored in Blueprint
+
+## License
+
+The source code, scripts and documentation in this repository are released under the [MIT License](LICENSE).
+
+Unreal Engine itself is covered by the [Unreal Engine EULA](https://www.unrealengine.com/eula). So is any engine content included here: `Content/AuditTests/Crate.uasset` is a copy of the engine's basic cube mesh. The MIT License doesn't cover either.
